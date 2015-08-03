@@ -1,0 +1,16 @@
+{
+  "name": "jquery-match-height",
+  "repo": "schoenwaldnils/jquery-match-height",
+  "version": "0.6.0",
+  "styles": [],
+  "scripts": ["jquery.matchHeight-min.js"],
+  "templates": [],
+  "dependencies": {
+  },
+  "license": "MIT",
+  "backend": {
+    "template": "",
+    "fixture": {
+    }
+  }
+}
